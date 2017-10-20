@@ -1,0 +1,4 @@
+DllInport  控件生成文件
+G 	   测试控件winform程序
+winform    模拟控件的winform程序
+qt-solutions-master qt生成dll程序

@@ -1,0 +1,8 @@
+D:\DllImport\DllImport\bin\Debug\DllImport.dll
+D:\DllImport\DllImport\bin\Debug\DllImport.pdb
+D:\DllImport\DllImport\obj\Debug\DllImport.csprojResolveAssemblyReference.cache
+D:\DllImport\DllImport\obj\Debug\DllImport.qtdll.resources
+D:\DllImport\DllImport\obj\Debug\DllImport.csproj.GenerateResource.Cache
+D:\DllImport\DllImport\obj\Debug\DllImport.csproj.CoreCompileInputs.cache
+D:\DllImport\DllImport\obj\Debug\DllImport.dll
+D:\DllImport\DllImport\obj\Debug\DllImport.pdb

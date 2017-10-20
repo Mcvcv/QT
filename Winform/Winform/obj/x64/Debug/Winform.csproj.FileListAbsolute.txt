@@ -1,0 +1,9 @@
+D:\Winform\Winform\bin\x64\Debug\Winform.exe.config
+D:\Winform\Winform\bin\x64\Debug\Winform.exe
+D:\Winform\Winform\bin\x64\Debug\Winform.pdb
+D:\Winform\Winform\obj\x64\Debug\Winform.Form1.resources
+D:\Winform\Winform\obj\x64\Debug\Winform.Properties.Resources.resources
+D:\Winform\Winform\obj\x64\Debug\Winform.csproj.GenerateResource.Cache
+D:\Winform\Winform\obj\x64\Debug\Winform.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\obj\x64\Debug\Winform.exe
+D:\Winform\Winform\obj\x64\Debug\Winform.pdb

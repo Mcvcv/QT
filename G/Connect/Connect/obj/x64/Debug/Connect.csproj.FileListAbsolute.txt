@@ -1,0 +1,12 @@
+D:\G\Connect\Connect\bin\x64\Debug\Connect.exe.config
+D:\G\Connect\Connect\bin\x64\Debug\Connect.exe
+D:\G\Connect\Connect\bin\x64\Debug\Connect.pdb
+D:\G\Connect\Connect\obj\x64\Debug\Connect.csprojResolveAssemblyReference.cache
+D:\G\Connect\Connect\obj\x64\Debug\Connect.Form1.resources
+D:\G\Connect\Connect\obj\x64\Debug\Connect.Properties.Resources.resources
+D:\G\Connect\Connect\obj\x64\Debug\Connect.csproj.GenerateResource.Cache
+D:\G\Connect\Connect\obj\x64\Debug\Connect.csproj.CoreCompileInputs.cache
+D:\G\Connect\Connect\obj\x64\Debug\Connect.exe
+D:\G\Connect\Connect\obj\x64\Debug\Connect.pdb
+D:\G\Connect\Connect\bin\x64\Debug\DllImport.dll
+D:\G\Connect\Connect\bin\x64\Debug\DllImport.pdb
